@@ -1,7 +1,5 @@
 # Introduction to FlexBox
 
-## Things I learnt
-
 ### display:flex;
 - To start a flexbox, we define the container as display:flex;
 - the immediate children automatically becomes flex-items
@@ -13,6 +11,7 @@
 - viewport height
 - takes the height of the device.
 - Equivalent to height:100%;
+
 
 # Working with flexbox flex-direction
 
@@ -30,3 +29,14 @@
 ### flex-direction: row-reverse;
 ### flex-direction: column-reverse;
 - Reverses the axis
+
+
+# Wrapping elements with Flexbox
+
+### flex-wrap
+- by default it is nowrap, ie, flex-wrap:nowrap;
+- flex-wrap: wrap;
+    - We can give wridth to flex-items after doing this
+- flex-wrap: wrap-reverse;
+    - The cross axis reverses, ie., becomes bottom to top.
+    
