@@ -5,7 +5,7 @@
 ![What the flexbox image](https://camo.githubusercontent.com/ae9d02e30c1b90d60208daee9c2f4780f8b5b66d/68747470733a2f2f666c6578626f782e696f2f696d616765732f5754462f73686172652e706e67)
 
 
-This repository contains code that I wrote while progressing through the course "What the Flexbox" by @wesbos
+This repository contains code that I wrote while progressing through the course "What the Flexbox" by [@wesbos](https://github.com/wesbos/What-The-Flexbox)
 
 [Course Link](https://flexbox.io/)
 
