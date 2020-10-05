@@ -40,3 +40,14 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .box{
     width: 33.33%;
 }
+
+.box2{
+  padding-bottom: 200px;
+}
+.box6{
+  padding-bottom: 0;
+}
+.box9{
+  padding-bottom: 50px;
+  align-self: center;
+}
