@@ -8,7 +8,9 @@
 This repository contains code that I wrote while progressing through the course "What the Flexbox" by 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wesbos?label=%40wesbos&style=social)
 
-Each file contains a README.md file containing the things I learnt during each lesson.
+[Course Link](https://flexbox.io/)
+
+Each file also contains a README.md file containing the things I learnt during each lesson.
 
 Video Number | README Link
 -------------|------------
